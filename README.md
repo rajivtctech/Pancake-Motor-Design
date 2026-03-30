@@ -30,7 +30,7 @@ To customize or generate the stator PCB:
 ```bash
 python3 generate_stator_pcb.py my_motor.kicad_pcb
 ```
-Then simply open `my_motor.kicad_pcb` natively in KiCad 6 or 7.
+Then simply open `my_motor.kicad_pcb` natively in KiCad 6 or 7 or later.
 
 ### Exporting Mechanical Parts
 To export the individual mechanical models to STL, simply run the appropriate script for your OS:
